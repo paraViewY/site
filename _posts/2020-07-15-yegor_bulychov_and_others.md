@@ -1,6 +1,6 @@
 ---
 author: someone
-title: Standard Post
+title: 「エゴール・ブルイチェーフとその他の人々」について
 featimg: 1.jpg
 tags: [text]
 category: [standard]
